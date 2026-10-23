@@ -2,9 +2,7 @@
 
 Encuestas con resultados en tiempo real. Cualquiera puede crear una encuesta y votar sin registrarse, y los conteos se actualizan al instante en todas las pantallas abiertas, sin recargar.
 
-**Demo:** [PEGA AQUÍ EL LINK DEL DEMO]
-
-![Encuestas](docs/encuestas.png)
+**Demo:** https://appvotation.netlify.app/
 
 ## Qué hace
 
